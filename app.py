@@ -109,7 +109,7 @@ with tab_vote:
         st.stop()
 
     presenter = st.radio(
-        "เลือก Presenter TechTalk ที่คุณชื่นชอบ (เลือกได้ 1 คน)",
+        "เลือก Presenter TechTalk ที่คุณชื่นชอบมากที่สุด (เลือกได้ 1 คน)",
         PRESENTERS,
         index=None
     )
