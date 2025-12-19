@@ -5,7 +5,7 @@ import streamlit as st
 
 APP_TITLE = "TechTalk Vote: Favorite Presenter"
 ADMIN_PASSWORD = "banana-hr"
-SHOW_TOP_N = 5
+SHOW_TOP_N = 3
 
 EMPLOYEES = [
     "Apisit Wisai","Areerat Tippayawong","Athiwat Khamnon","Atthaphon Kajitpongpanich","Aunyamanee Pukkaew",
