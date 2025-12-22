@@ -4,7 +4,7 @@ from pathlib import Path
 import streamlit as st
 
 APP_TITLE = "TechTalk Vote: Favorite Presenter"
-ADMIN_PASSWORD = "banana-hr"
+ADMIN_PASSWORD = "22"
 SHOW_TOP_N = 3
 
 EMPLOYEES = [
