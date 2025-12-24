@@ -25,6 +25,7 @@ PRESENTERS = [
     "Pipatpon Kessuwan",
     "Ungkairt Sirivoranankul",
     "Wiriya Jamol",
+    "Worachet Baramee",
 ]
 
 DB_PATH = Path("techtalk_votes.db")
