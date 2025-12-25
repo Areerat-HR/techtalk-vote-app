@@ -19,8 +19,8 @@ EMPLOYEES = [
 ]
 
 PRESENTERS = [
-    "[Ansible] Athiwat Khamnon",
-    "[Functional programming] Athiwat Khamnon",
+    " Ansible Athiwat Khamnon",
+    " Functional programming Athiwat Khamnon",
     "[Fault tolerance with newjeans] Athiwat Khamnon",
     "[Bold with Tailwind] Bussaraporn Daungin",
     "[Rails 8] Paradon Saengjam",
