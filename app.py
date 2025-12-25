@@ -19,16 +19,16 @@ EMPLOYEES = [
 ]
 
 PRESENTERS = [
-    " Ansible Athiwat Khamnon",
-    " Functional programming Athiwat Khamnon",
-    "[Fault tolerance with newjeans] Athiwat Khamnon",
-    "[Bold with Tailwind] Bussaraporn Daungin",
-    "[Rails 8] Paradon Saengjam",
-    "[Generative AI: Evalution and Beyond] Pipatpon Kessuwan",
-    "[Cyber security] Ungkairt Sirivoranankul",
-    "[PDPA] Ungkairt Sirivoranankul",
-    "[Figma MCP] Wiriya Jamol",
-    "[Security showcase]Worachet Baramee",
+    " Athiwat Khamnon[Ansible] ",
+    " Athiwat Khamnon [Functional programming]",
+    " Athiwat Khamnon[Fault tolerance with newjeans] ",
+    " Bussaraporn Daungin [Bold with Tailwind]",
+    " Paradon Saengjam [Rails 8]",
+    " Pipatpon Kessuwan [Generative AI: Evalution and Beyond]",
+    " Ungkairt Sirivoranankul [Cyber security] ",
+    " Ungkairt Sirivoranankul [PDPA] ",
+    " Wiriya Jamol [Figma MCP]",
+    " Worachet Baramee [Security showcase]",
 ]
 
 DB_PATH = Path("techtalk_votes.db")
