@@ -19,13 +19,16 @@ EMPLOYEES = [
 ]
 
 PRESENTERS = [
-    "Athiwat Khamnon",
-    "Bussaraporn Daungin",
-    "Paradon Saengjam",
-    "Pipatpon Kessuwan",
-    "Ungkairt Sirivoranankul",
-    "Wiriya Jamol",
-    "Worachet Baramee",
+    "[Ansible] Athiwat Khamnon",
+    "[Functional programming] Athiwat Khamnon",
+    "[Fault tolerance with newjeans] Athiwat Khamnon",
+    "[Bold with Tailwind] Bussaraporn Daungin",
+    "[Rails 8] Paradon Saengjam",
+    "[Generative AI: Evalution and Beyond] Pipatpon Kessuwan",
+    "[Cyber security] Ungkairt Sirivoranankul",
+    "[PDPA] Ungkairt Sirivoranankul",
+    "[Figma MCP] Wiriya Jamol",
+    "[Security showcase]Worachet Baramee",
 ]
 
 DB_PATH = Path("techtalk_votes.db")
