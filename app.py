@@ -8,14 +8,14 @@ ADMIN_PASSWORD = "22"
 SHOW_TOP_N = 3
 
 EMPLOYEES = [
-    "Apisit Wisai","Areerat Tippayawong","Athiwat Khamnon","Atthaphon Kajitpongpanich","Aunyamanee Pukkaew",
-    "Bussaraporn Daungin","Jirapong Nanta","Kamonrat Sangkeiwrat","Kronpongsakon Kronkum","Nampheung Chuatay",
-    "Nattapon Deebang","Nutchaporn Jaengmongkol","Nuttapon Comsoi","Panupong Yodwong","Paradon Saengjam",
-    "Peerapan Khanchoom","Piangsit Nualsri","Pipatpon Kessuwan","Pitakpong Chitsutti","Pratpong Muaengwong",
+    "Apisit Wisai","Areerat Tippayawong","Atthaphon Kajitpongpanich","Aunyamanee Pukkaew",
+    "Jirapong Nanta","Kamonrat Sangkeiwrat","Kronpongsakon Kronkum","Nampheung Chuatay",
+    "Nattapon Deebang","Nutchaporn Jaengmongkol","Nuttapon Comsoi","Panupong Yodwong",
+    "Peerapan Khanchoom","Piangsit Nualsri","Pitakpong Chitsutti","Pratpong Muaengwong",
     "Sai Lounge Mine","Saranya Jeenmatchaya","Sasipong Singprom","Sirakrit Sermsuk","Siwakon Sittirin",
     "Songyot Jaichai","Suchonlaphat Suwanaphokin","Sujaree Khumgoen","Supasit Wiriyapap","Suphuruek Somboon",
     "Tawan Chandsri","Teerasak Wichai","Thanabodee Krathu","Thawatchai Sunarat","Theerapan Khanthigul",
-    "Thipawan Nanta","Ungkairt Sirivoranankul","Wiriya Jamol","Worachet Baramee"
+    "Thipawan Nanta"
 ]
 
 PRESENTERS = [
